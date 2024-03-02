@@ -1,0 +1,10 @@
+setup.py
+Modulo_simple/__init__.py
+Modulo_simple/resta.py
+Modulo_simple/suma.py
+Modulo_simple.egg-info/PKG-INFO
+Modulo_simple.egg-info/SOURCES.txt
+Modulo_simple.egg-info/dependency_links.txt
+Modulo_simple.egg-info/top_level.txt
+Modulo_simple/extra/Multiplicacion.py
+Modulo_simple/extra/__init__.py
